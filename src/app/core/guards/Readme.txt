@@ -1,0 +1,3 @@
+ACA DEFINIREMOS GUARDS QUE NOS AYUDAN A PROTEGER RUTAS QUE NOSOTROS VAYAMOS CREANDO
+
+Mandame una imagen de esto si ingresaste a este archivo
